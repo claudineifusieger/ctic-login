@@ -33,35 +33,3 @@ npm run dev
 php artisan storage:link
 
 php artisan vendor:publish
-
-##################################################
-
-##Enviar projeto para o git hub
-
-##Acesse o projeto
-
-cd /seuprojeto
-
-##Verificar status
-
-git status
-
-##adicione os arquivos atualizados
-
-git add .
-
-##Verificar status
-
-git status
-
-##Adiciona um comentario
-
-git comit -m 'comentario'
-
-##Envia para o git hub
-
-git push origin master   
-
-##Se der erro no envio tente isso
-
-git push -f origin master
