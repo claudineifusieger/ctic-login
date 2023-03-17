@@ -1,6 +1,6 @@
 ##Clone o projeto
 
-git clone https://github.com/claudineifusieger/Fln-IFSC.git
+git clone https://github.com/claudineifusieger/ctic-login.git
 
 ##Acesse o projeto
 
